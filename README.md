@@ -15,7 +15,7 @@ pip install git+https://github.com/imohitkr/dsss_homework_2.git
 After installation, you can run the Math Quiz Game from the command line:
 
 ```bash
-python -m math_quiz
+math-quiz
 ```
 
 Follow the on-screen instructions to answer the math problems and see your final score at the end of the game.
